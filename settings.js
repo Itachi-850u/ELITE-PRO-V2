@@ -13,14 +13,14 @@ global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtube.com/@elitepro-empire"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
 
-global.themeemoji = '👨🏼‍💻'
+global.themeemoji = 'ᥬ😌᭄ ᥬ🤓᭄ 🔥'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
-global.packname = "Sticker By"
+global.packname = "Sticker By ༺♔༒ᏆͲᎪᏟᎻᏆ༒♔༻"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.' //set any prefix 
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["233245531679"] // Premium User
 //Stop here. Thanks for choosing ELITEPRO.
 
 
@@ -30,9 +30,9 @@ global.typemenu = 'v1'
 global.typereply = 'v4' 
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 
@@ -48,7 +48,7 @@ global.mess = {
 
 //text bug
 global.xbugtex = {
-xtxt: '👨🏼‍💻ELITE-PRO-V2👨🏼‍💻',
+xtxt: '👨🏼‍💻ELITE-PRO-ᥬ😌᭄ ᥬ😎᭄ 🔥',
 }
 
 
